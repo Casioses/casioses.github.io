@@ -4,3 +4,20 @@ body{
     font: 14px Verdana;
     text-align:center;
 }
+
+article header {
+	width: 460px;
+	float: left;    	
+}
+
+article section{
+    width: 1440px;
+    float: left;
+    background: #ffffff;
+    color: #000000;
+}
+
+.clear {
+    clear: both;    
+}
+
