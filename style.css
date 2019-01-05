@@ -6,13 +6,13 @@ body{
 }
 
 article header {
-	width: 480px;
-	float: left;    	
+	width: 1920px;
+	float: up;    	
 }
 
 article section{
-    width: 960px;
-    float: left;
+    width: 1920px;
+    float: up;
     background: #ffffff;
     color: #000000;
 }
